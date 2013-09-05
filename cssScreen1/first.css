@@ -1,0 +1,27 @@
+html {
+    background-color: #EDEDED; 
+    }
+
+p   {
+    margin: 10px;
+    }
+
+
+a   {
+    color: blue;
+    font-style: strong;
+    }
+
+#container 
+    {
+    width: 800px;
+    margin: 0px auto;
+    }
+
+#header 
+    {
+    border: 1px solid #DEDEDE;
+    padding: 0px 15px;
+    border-radius: 20px;
+    background-color: #DEDEDE;
+}

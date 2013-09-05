@@ -1,0 +1,57 @@
+html {
+    background-color: #EDEDED; 
+}
+p {
+    margin: 10px;
+}
+
+
+a {
+    color: blue;
+    font-style: strong;
+}
+#container {
+    width: 800px;
+    margin: 0px auto;
+}
+#header {
+    border: 1px solid #DEDEDE;
+    padding: 0px 15px;
+    border-radius: 20px;
+    background-color: #DEDEDE;
+}
+#main {
+    border: 1px solid #DEDEDE;
+    margin: 20px 0px 20px 0px;
+    padding: 20px;
+    float: right;
+    width: 500px;
+    border-radius: 20px; 
+    background-color: grey;
+}
+#main ul li{
+    margin: 10px;
+}
+#left {
+    padding: 0px 20px 0px 0px;
+    margin: 20px 0px 20px 0px;
+    border: 1px solid #DEDEDE;
+    float: left;
+    width: 200px;
+    border-radius: 20px;
+    background-color: #DEDEDE;
+}
+#left ul ul li{
+    margin: 0px;
+}
+#left ul li{
+    color: blue;
+    background-color: #DEDEDE;
+}
+#footer {
+    border: 1px solid #DEDEDE;
+    border-radius: 20px;
+    clear: both;
+    background-color: #DEDEDE;
+}
+
